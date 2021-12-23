@@ -3,3 +3,5 @@
 I'm, a Junior at Vellore Institute Of Technology, living near Rajasthan, specialized in **JAVA** and **Python**. I've been learning **Machine Learning**, since **November 2020**.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](https://mail.google.com/mail/u/?authuser=priyanshisharma19092001@gmail.com)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Priyanshi Sharma/) 
