@@ -8,4 +8,7 @@ I'm, a Junior at Vellore Institute Of Technology, living near Rajasthan, special
 
 [![Instagram](https://img.shields.io/badge/--linkedin?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/urs_iridescence/ )
 
+[![HackerRank](https://img.shields.io/badge/--dev?label=HackerRank&logo=Hackerrank&style=social)](https://www.hackerrank.com/priyanshisharma9)
+
+
 
