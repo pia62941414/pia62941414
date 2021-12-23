@@ -7,6 +7,18 @@ I'm, a Junior at Vellore Institute Of Technology, living near Rajasthan, special
 [![Instagram](https://img.shields.io/badge/--linkedin?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/urs_iridescence/ )
 [![HackerRank](https://img.shields.io/badge/--dev?label=HackerRank&logo=Hackerrank&style=social)](https://www.hackerrank.com/priyanshisharma9)
 
+#### Skills:
+- JAVA, Python
+- HTML, CSS, JavaScript
+- Machine Learning
+- Flask , Django (Python Frameworks)
+- MongoDB, MySQL
+
+#### I like to:
+- develop the software that would solve the real problems and makes the world a better place.
+- flexibility and trust: I work for people that care about outcomes
+- Always keep on pushing my limits.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pia62941414)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pia62941414&show_icons=true)  
