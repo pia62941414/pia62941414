@@ -1,5 +1,6 @@
 # Hola! <img src="https://raw.githubusercontent.com/kondekarshubham123/kondekarshubham123/master/assets/wave.gif" width="30px">, I'm Priyanshi Sharma
 
+I'm, a Junior at Vellore Institute Of Technology, living near Rajasthan, specialized in **JAVA** and **Python**. I've been learning **Machine Learning**, since **November 2020**.
 
 <!--
 **pia62941414/pia62941414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
