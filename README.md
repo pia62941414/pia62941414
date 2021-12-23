@@ -5,3 +5,7 @@ I'm, a Junior at Vellore Institute Of Technology, living near Rajasthan, special
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:priyanshisharma19092001@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/priyanshi-sharma-458996199/ )
+
+[![Instagram](https://img.shields.io/badge/--linkedin?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/urs_iridescence/ )
+
+
