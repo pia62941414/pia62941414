@@ -11,7 +11,7 @@ I'm, a Junior at Vellore Institute Of Technology, living near Rajasthan, special
 - JAVA, Python
 - HTML, CSS, JavaScript
 - Machine Learning
-- Flask , Django (Python Frameworks)
+- Django (Python Frameworks)
 - MongoDB, MySQL
 
 #### I like to:
