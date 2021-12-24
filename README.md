@@ -6,7 +6,7 @@ I'm, a Junior at Vellore Institute Of Technology, living near Rajasthan, special
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/priyanshi-sharma-458996199/ )
 [![Instagram](https://img.shields.io/badge/--linkedin?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/urs_iridescence/ )
 [![HackerRank](https://img.shields.io/badge/--dev?label=HackerRank&logo=Hackerrank&style=social)](https://www.hackerrank.com/priyanshisharma9)
-[![Gmail](https://img.shields.io/badge/--linkedin?label=github&logo=github&style=social)](mailto:https://github.com/pia62941414)
+[![Gmail](https://img.shields.io/badge/--linkedin?label=github&logo=github&style=social)](https://github.com/pia62941414)
 
 #### Skills:
 - JAVA, Python
