@@ -16,7 +16,6 @@ I'm, a Junior at Vellore Institute Of Technology, living near Rajasthan, special
 
 #### I like to:
 - develop the software that would solve the real problems and makes the world a better place.
-- flexibility and trust: I work for people that care about outcomes
 - Always keep on pushing my limits.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pia62941414)](https://github.com/anuraghazra/github-readme-stats)
