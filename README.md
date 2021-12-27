@@ -13,6 +13,7 @@ I'm, a Junior at Vellore Institute Of Technology, living near Rajasthan, special
 - HTML, CSS, JavaScript
 - Machine Learning
 - Django (Python Frameworks)
+- React
 - MongoDB, MySQL
 
 #### I like to:
